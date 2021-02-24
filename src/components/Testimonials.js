@@ -19,7 +19,7 @@ const Testimonials = props => {
           <div className="testimonial-2-message">
           <h3 className="testimonial-2-name">Jane Flannigan</h3>
           <p className="testimonial-2-title">VP, Product Engineering, Hot Big Startup</p>
-          <blockquote className="testimonial-2-content">It has saved us so many hours! My team is way more productive and happy thanks to Landing.</blockquote>
+          <blockquote className="testimonial-2-content">It has saved us so many hours! My team is way more productive and happy thanks to Idley.</blockquote>
         </div>
       </div>
       <div className="testimonial-card-3">
@@ -27,7 +27,7 @@ const Testimonials = props => {
         <div className="testimonial-3-message">
         <h3 className="testimonial-3-name">Jake Tolstoy</h3>
         <p className="testimonial-3-title">CTO, Cool Small Startup</p>
-        <blockquote className="testimonial-3-content">We have been able to iterate faster and meet our aggressive sprint goals because of Landing.</blockquote>
+        <blockquote className="testimonial-3-content">We have been able to iterate faster and meet our aggressive sprint goals because of Idley.</blockquote>
       </div>
         </div>
       </div >
