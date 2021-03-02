@@ -6,7 +6,7 @@ const Footer =  ({ siteTitle }) => {
     <footer className="footer">
       <div className="footer-belt">
         <div className="company-sign">
-        &copy; 2020 {siteTitle}
+        &copy; 2020 {siteTitle}       <a href="#">Privacy Policy</a>        <a href="#">TOS</a>
       </div>
         <div className="social-media">
           <a href="https://www.facebook.com"><div className="social-facebook">Facebook</div></a>
